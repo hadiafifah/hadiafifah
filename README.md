@@ -21,7 +21,7 @@ Right now, I’m deepening my skills in data science and hands-on machine learni
 
 ## 🎯 Featured Project: [Airbnb Insight: Rating Prediction Model](LINK-TO-YOUR-PROJECT)
 
-🧠 **What We Did:** Cleaned and engineered features from Airbnb NYC data, then trained a Random Forest model to predict listing ratings based on price, location, and host behavior.  
+🧠 **What We Did:** Cleaned and engineered features from Airbnb NYC data, then trained a Gradient Boosted Decisiton Tree model to predict listing ratings based on price, location, and host behavior.  
 🛠 **Tools Used:** Python, scikit-learn  
 📈 **Results:** Coming Soon!
 
