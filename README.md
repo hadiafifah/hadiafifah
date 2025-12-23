@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="318" height="312" alt="Screenshot 2025-10-17 at 1 33 16 PM" src="https://github.com/user-attachments/assets/78a7f780-ab59-4e6a-bc74-48c26560b5c2" />
+  <img width="159" height="156" alt="Screenshot 2025-10-17 at 1 33 16 PM" src="https://github.com/user-attachments/assets/78a7f780-ab59-4e6a-bc74-48c26560b5c2" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Afifah 🌱</h1>
