@@ -19,27 +19,51 @@ Right now, I’m deepening my skills in data science and hands-on machine learni
 
 ---
 
-## 🎯 Featured Project: [Airbnb Insight: Rating Prediction Model](LINK-TO-YOUR-PROJECT)
+## 🎯 Featured Project: Salesforce Team 2A CRM AI Assistant  
+🔗 **Link:** [(https://github.com/ishween/Team2A)]
 
-🧠 **What We Did:** Cleaned and engineered features from Airbnb NYC data, then trained a Gradient Boosted Decisiton Tree model to predict listing ratings based on price, location, and host behavior.  
-🛠 **Tools Used:** Python, scikit-learn  
-📈 **Results:** Coming Soon!
+🧠 **What We Did:** Designed and built an AI powered CRM assistant for Salesforce sales teams that delivers predictive insights through natural language. Developed machine learning models for lead scoring, opportunity win prediction, and account health, then integrated them into a conversational interface to support real business decision making.  
+🛠 **Tools Used:** Python, scikit-learn, XGBoost, Pandas, Ollama, ChromaDB, SentenceTransformers, Gradio  
+📈 **Results:** Achieved over 95 percent model accuracy and led the team to be selected as one of three standout teams from a cohort of 900 fellows to present at Break Through Tech’s first public AI Open Studio showcase.
 
 ---
 
-## 🚀 Projects
+## 🎯 Featured Project: ECS 174 Computer Vision Emotion Detector  
+🔗 **Link:** [(https://github.com/hadiafifah/ECS174-FinalProject)]
 
-### [Coming Soon!](LINK-TO-PROJECT)
+🧠 **What We Did:** Built an end to end facial emotion recognition system using convolutional neural networks. Processed and trained on grayscale facial expression datasets, implemented real time face detection, and classified emotional states from live or static images.  
+🛠 **Tools Used:** Python, PyTorch, Mini Xception CNN, MediaPipe, OpenCV  
+📈 **Results:** Successfully deployed a real time emotion detection pipeline with strong classification performance across multiple facial expressions under varying lighting and pose conditions.
+
+---
+
+## 🎯 Featured Project: HackDavis Admin Portal  
+🔗 **Link:** [(https://github.com/HackDavis/admissions-portal)]
+
+🧠 **What We Did:** Led development of a full stack administrative portal used by HackDavis organizers to review, filter, and manage thousands of hacker applications. Designed scalable filtering workflows, role based access, and data driven review tools while using AI assisted development to accelerate feature delivery and debugging.  
+🛠 **Tools Used:** Next.js, TypeScript, Node.js, MongoDB, React, GitHub Copilot, ChatGPT  
+📈 **Results:** Enabled faster and more structured applicant review for one of the largest student run hackathons at UC Davis while serving as Tech Director and coordinating cross functional development.
+
+---
+
+## 🎯 Featured Project: Blade of Oneiros  
+🔗 **Link:** [(https://github.com/ethanloinguyen/Blade-of-Oneiros)]
+
+🧠 **What We Did:** Developed a top down 2D action RPG with puzzle mechanics as part of a gameplay programming course. Implemented dialogue systems, enemy behavior, cutscenes, asset pipelines, and build management while collaborating in a multi branch Git workflow.  
+🛠 **Tools Used:** Godot 4, GDScript, Git, Itch.io Web Export  
+📈 **Results:** Delivered a fully playable web build and managed release workflows, laying the foundation for potential post course expansion and public distribution.
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C++, Go
-**Data Science & ML:** pandas, NumPy, scikit-learn
-**Web Dev:** HTML, CSS, JavaScript, Node.js  
-**Tools:** Jupyter Notebooks, Google Colab, Git, GitHub  
-**Databases:** SQL, MySQL  
+**Languages:** Python, Java, TypeScript, JavaScript, C++, Go  
+**Data Science & ML:** pandas, NumPy, scikit-learn, XGBoost, PyTorch  
+**AI & NLP:** Ollama, SentenceTransformers, ChromaDB, Prompt Engineering  
+**Web Development:** HTML, CSS, React, Next.js, Node.js  
+**Databases:** SQL, MySQL, MongoDB  
+**Tools & Platforms:** Git, GitHub, Jupyter Notebooks, Google Colab, Gradio, Godot
 
 ---
 
