@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQE4aqX-Xyg1Tw/profile-displayphoto-crop_800_800/B56ZgSPtzIIAAI-/0/1752652766806?e=1756339200&v=beta&t=KekW4MZ4PfUWrnIs0uy4l4RwD2YPaZv5Gtn7cadKHdI" width="150" style="border-radius: 50%;" alt="Profile Picture">
+  <img width="637" height="625" alt="Screenshot 2025-10-17 at 1 33 16 PM" src="https://github.com/user-attachments/assets/78a7f780-ab59-4e6a-bc74-48c26560b5c2" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Afifah 🌱</h1>
